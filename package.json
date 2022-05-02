@@ -1110,7 +1110,7 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
-    "expand-home-dir": "^0.0.3",
+    "expand-home-dir": "^2.0.0",
     "find-java-home": "1.1.0",
     "fmtr": "^1.1.2",
     "fs-extra": "^8.1.0",
