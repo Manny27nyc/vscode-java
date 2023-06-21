@@ -1118,6 +1118,6 @@
     "vscode-languageclient": "7.0.0",
     "winreg-utf8": "^0.1.1",
     "winston": "^3.2.1",
-    "winston-daily-rotate-file": "^3.10.0"
+    "winston-daily-rotate-file": "^4.0.0"
   }
 }
